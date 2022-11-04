@@ -8,7 +8,7 @@ Perhaps other statistics, such as 'Average Classroom' size could be pulled and a
 
 
 #### Discoveries from Process
-During the process of reviewing the data, it became clear there was multiple approches for collecting the data. In the future, using alternate logic will be an important tool for quality control and testing. 
+During the process of reviewing the data, it became clear there was multiple approaches for collecting the data. In the future, using alternate logic will be an important tool for quality control and testing. 
 
 #### Resources: 
 - Utilized AskBCS resource to think through python logic. (Tudor Name: Zubair)
